@@ -10,4 +10,5 @@ the application is set by default to search italian news, to change this to anot
 - mainfragment.java
 
 The countries supported by used API can be found at: https://newsapi.org/docs/endpoints/top-headlines
+
 I'm going to change the horrid colors soon.
